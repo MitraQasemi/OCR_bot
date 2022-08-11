@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "nodemon": "^2.0.19",
+    "telegraf": "^4.8.6",
+    "tesseract.js": "^2.1.5"
+  }
+}
