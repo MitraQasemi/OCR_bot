@@ -9,6 +9,8 @@ bot.start(ctx => {
     console.log(ctx.message.from);
     ctx.reply("Hi");
 })
+
+
 bot.on("message", async ctx => {
     ctx.reply("you sent a photo");
     console.log(ctx);
